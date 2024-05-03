@@ -20,4 +20,21 @@ Cryptocurrencies are known for their volatile nature and understanding their beh
 `pip install -r requirements.txt`
 
 ### Usage
+1. Ensure that you have installed all dependencies as mentioned in the Installation section.
+2. Open the `Crypto_Clustering.ipynb` file.
+3. Execute each cell in the notebook to perform clustering and analysis.
+4. Follow the instructions within the notebook to analyze the results.
 
+### Results
+Include visual representations of the results here, such as plots of the clustered data or PCA analysis. Below are examples of the results:
+
+### Example 1: Clustering Results
+![Clustering Results](images/CryptoClusters.png)
+
+
+### Example 2: PCA Analysis
+![PCA Analysis](images/ElbowPCA.png)
+
+
+### Example 3: HvPlot
+![HvPlot](images/bokeh_plot.png)
